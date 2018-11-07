@@ -9,7 +9,7 @@ Go to the [**microsite**](https://c-block.github.io/jbok/) for more information.
 
 WIP.
 
-# test in macOS
+# test desktop wallet in macOS
 ## required
 jdk 1.8
 scala 2.12+
